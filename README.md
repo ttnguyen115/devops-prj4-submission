@@ -1,4 +1,4 @@
-[![ttnguyen115](https://circleci.com/gh/ttnguyen115/devops-prj4-submission.svg?style=svg)](<LINK>)
+[![ttnguyen115](https://circleci.com/gh/ttnguyen115/devops-prj4-submission.svg?style=svg)](https://app.circleci.com/pipelines/github/ttnguyen115/devops-prj4-submission)
 
 ## Project Overview
 
